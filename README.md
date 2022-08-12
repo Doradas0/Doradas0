@@ -5,10 +5,10 @@
 #### Current
 - :hammer: Feature flag application w/ React.js implementaion
 - :office: Business Innovation Developer @ Mercedes-Benz FS
+- :runner: Exploring Lake Bled, Slovinia
 
 #### Next
 - :hammer: cloud archive storage
-- :runner: climbing trip in fontainebleau
 
 #### Bio
 - :wrench: Tools: AWS Serverless (Lambda, DynamoDB, SQS...) React.js Typescript Jest Node.js
