@@ -3,16 +3,16 @@
 #### I'm a Full-Stack Developer based in the UK
 
 #### Current
-- :hammer: Feature flag application w/ React.js implementaion
-- :office: Business Innovation Developer @ Mercedes-Benz FS
-- :runner: Exploring Lake Bled, Slovinia
+- :hammer: -
+- :office: Software Engineer @ Lego
 
 #### Next
-- :hammer: cloud archive storage
+- :hammer: -
+- :runner: -
 
 #### Bio
 - :wrench: Tools: AWS Serverless (Lambda, DynamoDB, SQS...) React.js Typescript Jest Node.js
-- :evergreen_tree: Learning more about TDD and Continuous integration
+- :evergreen_tree: -
 - :heart: I enjoy cooking, climbing and hopefully more travelling
 
 <!---
