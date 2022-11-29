@@ -8,7 +8,7 @@
 
 #### Next
 - :hammer: -
-- :runner: -
+- :airplane: - 
 
 #### Bio
 - :wrench: Tools: AWS Serverless (Lambda, DynamoDB, SQS...) React.js Typescript Jest Node.js
