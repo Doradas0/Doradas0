@@ -3,17 +3,16 @@
 #### I'm a Full-Stack Developer based in the UK
 
 #### Current
-- :hammer: -
+- :hammer: Logger tool
 - :office: Software Engineer @ Lego
 
 #### Next
 - :hammer: -
-- :airplane: - 
+- :airplane: Billund
 
 #### Bio
-- :wrench: Tools: AWS Serverless (Lambda, DynamoDB, SQS...) React.js Typescript Jest Node.js
-- :evergreen_tree: -
-- :heart: I enjoy cooking, climbing and hopefully more travelling
+- :wrench: AWS Serverless (Lambda, DynamoDB, SQS...) Typescript Jest Node.js React.js
+- :heart: Cooking, climbing and travelling
 
 <!---
 Doradas0/Doradas0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
