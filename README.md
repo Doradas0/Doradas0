@@ -8,7 +8,7 @@
 
 #### Next
 - :hammer: -
-- :airplane: Billund
+- :airplane: Valencia
 
 #### Bio
 - :wrench: AWS Serverless (Lambda, DynamoDB, SQS...) Typescript Jest Node.js React.js
