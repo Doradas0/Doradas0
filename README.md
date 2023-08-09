@@ -3,15 +3,15 @@
 #### I'm a Full-Stack Developer based in the UK
 
 #### Current
-- :hammer: Logger tool
+- :hammer: Type Safe StepFunctions
 - :office: Software Engineer @ Lego
 
 #### Next
 - :hammer: -
-- :airplane: Valencia
+- :airplane: Peak District
 
 #### Bio
-- :wrench: AWS Serverless (Lambda, DynamoDB, SQS...) Typescript Jest Node.js React.js
+- :wrench: AWS Serverless (Lambda, DynamoDB, SQS...) Typescript Node.js React.js
 - :heart: Cooking, climbing and travelling
 
 <!---
